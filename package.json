@@ -1,0 +1,33 @@
+{
+  "name": "node_helloworld",
+  "version": "1.0.0",
+  "description": "helloworld",
+  "main": "index.js",
+  "directories": {
+    "example": "examples",
+    "test": "test"
+  },
+  "dependencies": {
+    "chai": "^3.0.0"
+  },
+  "devDependencies": {
+    "mocha": "^2.2.5"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/k-monkey/node_helloworld.git"
+  },
+  "keywords": [
+    "hello",
+    "world"
+  ],
+  "author": "Monkey King <captain.monkey88@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/k-monkey/node_helloworld/issues"
+  },
+  "homepage": "https://github.com/k-monkey/node_helloworld"
+}
