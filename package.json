@@ -8,6 +8,8 @@
     "test": "test"
   },
   "dependencies": {
+    "bootstrap": "3.3.5",
+    "express": "4.13.0",
     "chai": "^3.0.0"
   },
   "devDependencies": {
